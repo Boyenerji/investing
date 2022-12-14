@@ -54,6 +54,7 @@ input {
 
 .block-1, .block-2 {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     width: 60%;
     /* border: 0.5px solid #DCDCDC; */
